@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42154519950",
+    "project_id": "intelligent-auth",
+    "storage_bucket": "intelligent-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42154519950:android:770d2e91806ecb5f7a08df",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42154519950-gln8tm374ngn5hvdrvujh9ifsrgd669i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOpRS4mL9QXpKvSqzspr7OLmA3oCNCfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42154519950-gln8tm374ngn5hvdrvujh9ifsrgd669i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
